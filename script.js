@@ -24,7 +24,7 @@ function carregar(){
 
  } else {
     //boa noite!!
- img.src = 'foto-adulto-m.png'
+ img.src = 'fotonoite.png'
  titulo.innerHTML='Boa noite!'
  }
 }
